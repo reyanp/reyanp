@@ -29,9 +29,9 @@
     <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="100"/>
   </a>
   &nbsp
-  <a href="mailto:reyanpatel.rp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=Email&color=D14836&style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="100"/>
-  </a>
+<a href="mailto:reyanpatel.rpf@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Me" />
+</a>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EAEAEA&height=120&section=footer" alt="footer"/>
