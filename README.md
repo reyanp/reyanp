@@ -17,7 +17,7 @@
 
 
 ### Main skills  
-[![My Skills](https://skillicons.dev/icons?i=py,java,cpp,c,js,ts,html,css,react,nodejs,nextjs,flutter,django,flask,tailwind,terraform,aws,gcp,azure,docker,kubernetes,git,github,vscode,mysql,postgres,tensorflow,pytorch,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css,react,nodejs,nextjs,flask,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,postgres,linux,windows)](https://skillicons.dev)
 
 ### Studying / Exploring  
 [![Learning](https://skillicons.dev/icons?i=rust,go,redis,graphql)](https://skillicons.dev)
