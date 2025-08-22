@@ -16,7 +16,7 @@
 </div>
 
 
-### Main skills  
+### Tech that I've used  
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css,react,nodejs,nextjs,flask,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,postgres,linux,windows)](https://skillicons.dev)
 
 ### Studying / Exploring  
