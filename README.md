@@ -11,11 +11,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=25&pause=500&color=EAEAEA&width=435&lines=Hey+I'm+Reyan+Patel!" alt="Typing SVG" />
 </a>
 
-<div>
-    <img src="./assets/about_reyan.gif" alt="About Me Terminal GIF"/>
-</div>
-
-
 ### Tech that I've used  
 [![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,flask,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,vim,graphql,postgres,linux,windows,apple)](https://skillicons.dev)
 
