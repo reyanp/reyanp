@@ -17,10 +17,10 @@
 
 
 ### Tech that I've used  
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,js,ts,html,css,react,nodejs,nextjs,flask,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,postgres,linux,windows)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,html,css,flask,tailwind,aws,gcp,azure,docker,kubernetes,git,github,vscode,vim,graphql,postgres,linux,windows,apple)](https://skillicons.dev)
 
 ### Studying / Exploring  
-[![Learning](https://skillicons.dev/icons?i=rust,go,redis,graphql)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=go)](https://skillicons.dev)
 
 
 ### Connect with me!
